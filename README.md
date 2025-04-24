@@ -33,6 +33,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mihir-Panjikar&hide_rank=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=520&width=420)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihir-Panjikar&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" width="42%"/> <br>
 <img src="https://github-contributor-stats.vercel.app/api?username=Mihir-Panjikar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="41%">
-<img src="https://streak-stats.demolab.com?user=Mihir-Panjikar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" alt="streak graph" width="57%"/>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mihir-Panjikar&theme=dark)](https://git.io/streak-stats)
 
