@@ -28,8 +28,3 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F05032.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-FFFFFF?logo=seaborn&logoColor=424677&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
-# Stats
-![](https://github-readme-stats.vercel.app/api?username=Mihir-Panjikar&hide_rank=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&height=520&width=420)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihir-Panjikar&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" width="42%"/> <br>
-<img src="https://github-contributor-stats.vercel.app/api?username=Mihir-Panjikar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" width="41%">
